@@ -1,0 +1,6 @@
+to run server:
+  sudo python manage.py runserver
+
+always do 'sudo' before doing anything
+even before creating or editing files in 'vim'
+
